@@ -13,3 +13,31 @@ body {
   padding: 0;
   background-color: #fcfcfc;
 }
+
+.cards{
+  display: grid;
+  grid-template-columns: repeat(3,auto);
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  margin: 50px 50px;
+}
+
+@media(min-width:1150px){
+  .cards{
+    grid-template-columns: repeat(4,auto);
+  }
+}
+
+@media(max-width:860px){
+  .cards{
+    grid-template-columns: repeat(2,auto);
+  }
+}
+
+
+@media(max-width:570px){
+  .cards{
+    grid-template-columns: repeat(1,auto);
+  }
+}
