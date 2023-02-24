@@ -26,14 +26,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/eizbrZK.gifv' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+<img src='./communityBoard/public/images/Project1Demo.gif'  
+title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LiceCAP
 
 ## Notes
 
